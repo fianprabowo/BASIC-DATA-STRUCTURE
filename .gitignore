@@ -24,8 +24,8 @@ profile.cov
 go.work
 go.work.sum
 
-# env file
-.env
+# Go module cache (generated at runtime)
+root/
 
 # Editor/IDE
 # .idea/
